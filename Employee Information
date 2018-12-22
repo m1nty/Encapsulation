@@ -117,17 +117,7 @@ public class MyDate {
 ****************************************************************
 Employee Class
 ****************************************************************
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package lab4java;
 
-/**
- *
- * @author shahm23
- */
 public class Employee
 {
     private MyDate dateOfHiring;//intializes fields
@@ -213,22 +203,7 @@ public static int[] hiredInMonth(Employee[] manyE, int theMonth){
 ****************************************************************
 Test Class
 ****************************************************************
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package lab4java;
 
-/**
- *
- * @author shahm23
- */
-public class Lab4java {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         //Testing MyDate CLASS
         //creating MyDate objects to test
